@@ -1,0 +1,11 @@
+.md-expand-code{
+  position:absolute;
+  top:0;
+  right:0;
+  border:none;
+  background:transparent;
+  cursor:pointer;
+}
+pre.md-code--expanded{
+  max-width:none;
+}
