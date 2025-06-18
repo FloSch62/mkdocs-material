@@ -1,0 +1,23 @@
+/* Expandable code blocks */
+pre.code-expand {
+  position: relative;
+}
+pre.code-expand button.code-expand-toggle {
+  position: absolute;
+  top: 0.25rem;
+  right: 0.25rem;
+  padding: 0.2rem 0.4rem;
+  font-size: 0.75rem;
+  border: none;
+  border-radius: 2px;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color--lightest);
+  cursor: pointer;
+}
+pre.code-expand button.code-expand-toggle:focus {
+  outline: 2px solid var(--md-accent-fg-color);
+}
+pre.code-expand.expanded {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+}
