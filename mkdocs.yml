@@ -240,6 +240,7 @@ nav:
     - Privacy: plugins/privacy.md
     - Projects: plugins/projects.md
     - Search: plugins/search.md
+    - Expand: plugins/expand.md
     - Social: plugins/social.md
     - Tags: plugins/tags.md
     - Typeset: plugins/typeset.md
