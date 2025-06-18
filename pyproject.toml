@@ -82,6 +82,7 @@ Funding = "https://github.com/sponsors/squidfunk"
 "material/offline" = "material.plugins.offline.plugin:OfflinePlugin"
 "material/privacy" = "material.plugins.privacy.plugin:PrivacyPlugin"
 "material/search" = "material.plugins.search.plugin:SearchPlugin"
+"material/expand" = "material.plugins.expand.plugin:ExpandPlugin"
 "material/social" = "material.plugins.social.plugin:SocialPlugin"
 "material/tags" = "material.plugins.tags.plugin:TagsPlugin"
 
