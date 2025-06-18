@@ -1,0 +1,5 @@
+from mkdocs.config.config_options import Type
+from mkdocs.config.base import Config
+
+class ExpandCodeConfig(Config):
+    enabled = Type(bool, default=True)
