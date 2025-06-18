@@ -1,0 +1,1 @@
+"""Expandable code blocks plugin."""
