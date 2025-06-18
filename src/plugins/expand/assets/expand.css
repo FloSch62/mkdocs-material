@@ -1,0 +1,4 @@
+pre.code-expandable{position:relative}
+.code-expand-button{position:absolute;top:.25rem;right:.25rem;background:var(--md-code-bg-color);color:var(--md-code-fg-color);border:none;cursor:pointer}
+.code-overlay{position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:1000;padding:1rem;overflow:auto}
+.code-overlay pre{max-width:none}
